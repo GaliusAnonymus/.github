@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/GaliusAnonymus/.github/blob/main/SECURITY.md
+    about: Never report vulnerabilities in public issues. Use private vulnerability reporting (Security tab → Report a vulnerability).
+  - name: Getting help
+    url: https://github.com/GaliusAnonymus/.github/blob/main/SUPPORT.md
+    about: Where to ask questions and what to expect.
+  - name: Projects by RaCzKoViC
+    url: https://github.com/GaliusAnonymus
+    about: RacOS, The-MinerGuy, CodeMap, AgentBox and Odysseus-Lab live on the personal account. Open issues in the project's own repository.
